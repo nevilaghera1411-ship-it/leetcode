@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Recursion
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -99,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Tree
 |  |
