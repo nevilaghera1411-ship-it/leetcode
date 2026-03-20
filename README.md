@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/nevilaghera1411-ship-it/leetcode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
